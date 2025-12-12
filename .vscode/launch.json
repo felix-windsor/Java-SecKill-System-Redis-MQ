@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SeckillApplication<seckill>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cn.hfbin.seckill.SeckillApplication",
+            "projectName": "seckill",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
