@@ -29,7 +29,7 @@ http://localhost:15672
 先登录进去
 用户名和密码都是 admin
 选择 Queues and Streams
-![[Pasted image 20251212115447.png]]
+<img src="img\Pasted image 20251212115447.png">
 队列配置
 - Virtual host 选择 / （与应用一致）
 - Type 选 Classic
@@ -44,6 +44,8 @@ mvn spring-boot:run
 ```
 
 ### 登录
+登录地址：[http://localhost:8888/page/login](http://localhost:8888/page/login)
+
 手机号
 ```
 18077200000
